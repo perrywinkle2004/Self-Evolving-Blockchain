@@ -1,7 +1,7 @@
 # ⛓ IntelliChain
 ### AI-Driven Self-Evolving Blockchain with Adaptive Consensus
 
-> *"A blockchain that is not fixed, but self-evolving — optimizing security, scalability, and performance dynamically."*
+> *"A blockchain that is not fixed, but self-evolving, optimizing security, scalability, and performance dynamically."*
 
 ---
 
